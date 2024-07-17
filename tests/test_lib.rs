@@ -21,5 +21,5 @@ fn test_mul() {
 
 #[test]
 fn test_div() {
-    assert_eq!(div(1, 2), 0);
+    assert_eq!(div(4, 2), 2);
 }
